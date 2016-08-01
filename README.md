@@ -1,5 +1,8 @@
 # openstack-mitaka-1controller-1compute-1cli-on-ubuntu-japanese
 
+<font size="5" color="#ff0000">このドキュメントは、まだ作成中です。</font>
+<br>
+
 このドキュメントでは、
 [OpenStack Docs Installation Guide for Ubuntu](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/) を参考に、1Controller, 1Compute, 1Cli の構成でOpenStackのPoC環境を構築する。
 
@@ -21,4 +24,4 @@
 
 ### 構成図
 
-<img src="https://github.com/Soichiro75/openstack-mitaka-1controller-1compute-1cli-on-ubuntu-japanese/blob/master/images/xxxxxxxxx.png" width="320px" title="TryGitHub">
+<img src="https://github.com/Soichiro75/openstack-mitaka-1controller-1compute-1cli-on-ubuntu-japanese/blob/master/images/xxxxxxxxx.png" width="320px" title="OpenStack全体構成図">
