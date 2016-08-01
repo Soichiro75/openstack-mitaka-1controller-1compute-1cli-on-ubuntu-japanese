@@ -13,7 +13,7 @@
 
 ## 環境
 
-### スペック
+### 今回使用したサーバースペック
 
 |   |comtroller01|compute01|cli01|
 |---|---|---|---|
@@ -21,6 +21,14 @@
 |Memory|16 GB|88 GB|2 GB|
 |HDD|2 TB|500 GB|120 GB|
 |Nic|2 nics|2 nics|1 nics|
+
+### (参考)最小構成
+[OpenStack ドキュメント 環境 について](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/environment.html)
+
+コアなサービスと CirrOS のインスタンスをいくつか動かす程度の検証(PoC)環境であれば、以下の最小要件で動作する
+ - コントローラーノード: 1 CPU、4 GB メモリ、5 GB ストレージ
+ - コンピュートノード: 1 CPU、2 GB メモリ、10 GB ストレージ
+
 
 ### 構成図
 
