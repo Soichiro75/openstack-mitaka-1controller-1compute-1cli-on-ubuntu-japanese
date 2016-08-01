@@ -6,6 +6,11 @@
 このドキュメントでは、
 [OpenStack Docs Installation Guide for Ubuntu](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/) を参考に、1Controller, 1Compute, 1Cli の構成でOpenStackのPoC環境を構築する。
 
+「ssh root ログイン を許可する」など、基本的にセキュリティは考慮しない
+
+設定は基本的にrootユーザーにて実施している
+
+
 ## Helpful Links
 
 - [OpenStack Docs Installation Guide for Ubuntu](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/)
