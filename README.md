@@ -34,10 +34,10 @@
 
  |   |controller01|compute01|cli01不要(controller01で操作する)|
  |---|---|---|---|
- |CPU|1 core|1 cores| - |
- |Memory|4 GB|2 GB| - |
- |HDD|5 GB|10 GB| - |
- |Nic|1 nics|1 nics| - |
+ |CPU|1 core|1 cores|  |
+ |Memory|4 GB|2 GB|  |
+ |HDD|5 GB|10 GB|  |
+ |Nic|1 nic|1 nic|  |
 
 
 ### 構成図
