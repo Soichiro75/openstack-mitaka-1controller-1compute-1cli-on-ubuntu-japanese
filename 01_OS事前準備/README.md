@@ -183,18 +183,18 @@ vi /etc/hosts
 
   - hosts動作確認
 
-    ```
-    # ping -c 4 controller01
-    # ping -c 4 controller01.st.local
-    # ping -c 4 compute01
-    # ping -c 4 compute01.st.local
-    ```
+```
+# ping -c 4 controller01
+# ping -c 4 controller01.st.local
+# ping -c 4 compute01
+# ping -c 4 compute01.st.local
+```
 
   - インターネット接続確認
 
-  ```
-  # ping -c 4 openstack.org
-  ```
+```
+# ping -c 4 openstack.org
+```
 
 ## NTP設定
 
