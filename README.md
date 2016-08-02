@@ -35,10 +35,10 @@
 
 |   |controller01|compute01|cli01不要(controller01で操作する)|
 |---|---|---|---|
-|CPU|1 core|1 core|2 cores|
-|Memory|16 GB|88 GB|2 GB|
-|HDD|5 GB|10 GB|120 GB|
-|Nic|1 nic|1 nic|1 nics|
+|CPU|1 core|1 core|   |
+|Memory|16 GB|88 GB|   |
+|HDD|5 GB|10 GB|   |
+|Nic|1 nic|1 nic|   |
 
 
  |   |controller01|compute01|cli01不要controller01で操作する|
