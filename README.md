@@ -20,7 +20,7 @@
 
 ### 今回使用したサーバースペック
 
-|   |comtroller01|compute01|cli01|
+|   |controller01|compute01|cli01|
 |---|---|---|---|
 |CPU|2 cores|16 cores|2 cores|
 |Memory|16 GB|88 GB|2 GB|
@@ -34,6 +34,13 @@
  - コントローラーノード: 1 CPU、4 GB メモリ、5 GB ストレージ
  - コンピュートノード: 1 CPU、2 GB メモリ、10 GB ストレージ
 
+ |   |controller01|compute01|cli01不要(controller01で操作する)|
+ |---|---|---|---|
+ |CPU|1 core|1 cores| - |
+ |Memory|4 GB|2 GB| - |
+ |HDD|5 GB|10 GB| - |
+ |Nic|1 nics|1 nics| - |
+ 
 
 ### 構成図
 
