@@ -33,12 +33,12 @@
 
 コアなサービスと CirrOS のインスタンスをいくつか動かす程度の検証環境(PoC)であれば、以下の最小要件で動作する
 
-|   |controller01|compute01|cli01不要|
+|   |controller01|compute01|cli01不要(controller01で操作する)|
 |---|---|---|---|
-|CPU|2 cores|16 cores|2 cores|
+|CPU|1 core|1 core|2 cores|
 |Memory|16 GB|88 GB|2 GB|
-|HDD|2 TB|500 GB|120 GB|
-|Nic|2 nics|2 nics|1 nics|
+|HDD|5 GB|10 GB|120 GB|
+|Nic|1 nic|1 nic|1 nics|
 
 
  |   |controller01|compute01|cli01不要controller01で操作する|
