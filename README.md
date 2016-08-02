@@ -29,6 +29,10 @@
 
 ### (参考)最小構成
 
+[OpenStack ドキュメント 環境 について](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/environment.html)
+
+コアなサービスと CirrOS のインスタンスをいくつか動かす程度の検証環境(PoC)であれば、以下の最小要件で動作する
+
 |   |controller01|compute01|cli01|
 |---|---|---|---|
 |CPU|2 cores|16 cores|2 cores|
@@ -36,9 +40,6 @@
 |HDD|2 TB|500 GB|120 GB|
 |Nic|2 nics|2 nics|1 nics|
 
-[OpenStack ドキュメント 環境 について](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/environment.html)
-
-コアなサービスと CirrOS のインスタンスをいくつか動かす程度の検証環境(PoC)であれば、以下の最小要件で動作する
 
  |   |controller01|compute01|cli01不要controller01で操作する|
  |---|---|---|---|
