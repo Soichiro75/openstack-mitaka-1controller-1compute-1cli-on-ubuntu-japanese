@@ -6,11 +6,11 @@
 この手順では、
 [OpenStack Docs Installation Guide for Ubuntu](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/) を参考に、1Controller, 1Compute, 1Cli の構成でOpenStackのPoC環境を構築する。
 
-「ssh root ログイン を許可する」など、基本的にセキュリティは考慮しない
+「ssh root ログイン を許可する」など、基本的にセキュリティは考慮しない。
 
-設定は基本的にrootユーザーにて実施している
+設定は基本的にrootユーザーにて実施している。
 
-パスワードは基本的に`Password123$`を使用する
+パスワードは基本的に`Password123$`を使用する。
 
 
 ## Helpful Links
@@ -35,7 +35,7 @@
 
 コアなサービスと CirrOS のインスタンスをいくつか動かす程度の検証環境(PoC)であれば、以下の最小要件で動作する
 
-|   |controller01|compute01|cli01不要(controller01で操作する)|
+|   |controller01|compute01|cli01不要</br>(controller01で操作する)|
 |---|---|---|---|
 |CPU|1 core|1 core| - |
 |Memory|4 GB|2 GB| - |
