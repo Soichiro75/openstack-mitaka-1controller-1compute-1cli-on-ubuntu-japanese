@@ -1,8 +1,11 @@
 # openstack-mitaka-1controller-1compute-1cli-on-ubuntu-japanese
 
-**諸々ありまして、本手順の作成は中止。**
+</br>
+**本手順の作成は中止。**
 
 **[「Liberty on CentOS」](https://github.com/Soichiro75/openstack-liberty-on-centos-japanese)を変わりに作成予定。**
+
+---
 
 この手順では、
 [OpenStack Docs Installation Guide for Ubuntu](http://docs.openstack.org/mitaka/ja/install-guide-ubuntu/) を参考に、1Controller, 1Compute, 1Cli の構成でOpenStackのPoC環境を構築する。
